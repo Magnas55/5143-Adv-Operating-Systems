@@ -1,5 +1,3 @@
-
-# 5143-Adv-Operating-Systems
 ## Sangam Lamichhane
 #### Repo: 5143-Adv-Operating-Systems
 #### Email: slamichhane0602@my.msutexas.edu
