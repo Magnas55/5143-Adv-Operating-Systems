@@ -6,7 +6,6 @@
 - Serwes Bhatta
 
 ## Project Summary
-Shells are integral to our interactions with computers. This project develops a Python-based shell mimicking typical shell functionalities. Here's an outline of the essential behaviors our shell exhibits:
 
 Following its initialization, the program consistently executes these steps:
 - Captures a line from the standard input (`getch()`).
@@ -23,7 +22,8 @@ Enter your commands according to your needs (e.g., `ls -la`).
 
 ## Known Issues
 - Input redirection functionality is currently unavailable.
-- The arrow and backspace keys do not function optimally.
+- The left and right arrow keys do not function as expected.
+  
 
 ## Project Files
 | #  | File               | Description                                         |
