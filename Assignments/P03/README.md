@@ -24,5 +24,5 @@ Ensure all required packages from `requirements.txt` are installed.
 | 2  | `components/`      | Includes core system components such as `device.py`, `job.py`, `queue.py`, `stats.py`, and `systemClock.py`. |
 | 3  | `systemClock.py`   | Manages system time simulations, located in the root directory of the project. |
 | 4  | `requirements.txt` | Contains all dependencies required for the project to ensure proper environment setup. |
-| 5  | `my_version.py`    | Script to handle all of the scheduling algorithms. |
+| 5  | `scheduler.py`    | Script to handle all of the scheduling algorithms. |
 
