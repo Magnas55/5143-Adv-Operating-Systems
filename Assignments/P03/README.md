@@ -1,1 +1,45 @@
+# 5143 Scheduling Project
+## Date: December 9, 2024
+
+## Group Contributors
+- Sangam Lamichhane
+- Serwes Bhatta
+
+## Project Summary
+This project simulates a scheduling system using various components and API integration to manage job queues and system resources effectively. Following initialization, the system executes these essential operations.
+
+## Setup Instructions
+Ensure all required packages from `requirements.txt` are installed.
+
+## Directory Structure
+P03/
+│
+├── api/
+│   ├── __init__.py
+│   ├── getBurst.py
+│   ├── getJob.py
+│   └── init.py
+│
+├── components/
+│   ├── __init__.py
+│   ├── device.py
+│   ├── job.py
+│   ├── queue.py
+│   ├── stats.py
+│   └── systemClock.py
+│
+├── .gitignore
+├── my_version.py
+└── requirements.txt
+
+
+## Project Files
+
+| #  | File               | Description                                         |
+|----|--------------------|-----------------------------------------------------|
+| 1  | `api/`             | Contains API handling scripts like `getJob.py`, `getBurst.py` for fetching jobs and burst details. |
+| 2  | `components/`      | Includes core system components such as `device.py`, `job.py`, `queue.py`, `stats.py`, and `systemClock.py`. |
+| 3  | `systemClock.py`   | Manages system time simulations, located in the root directory of the project. |
+| 4  | `requirements.txt` | Contains all dependencies required for the project to ensure proper environment setup. |
+| 5  | `my_version.py`    | Script to handle version control within the project, including version checks and updates. |
 
