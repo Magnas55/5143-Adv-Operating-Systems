@@ -16,9 +16,9 @@ Following its initialization, the program consistently executes these steps:
 - Directs output to designated files when output redirection is specified, rather than displaying it in the console.
 
 ## Setup Instructions
-Ensure all required packages from `requirements.txt` are installed.
-Execute `shell.py` (e.g., `python3 shell.py`).
-Enter your commands according to your needs (e.g., `ls -la`).
+** 1. Ensure all required packages from `requirements.txt` are installed.
+** 2. Execute `shell.py` (e.g., `python3 shell.py`).
+** 3. Enter your commands according to your needs (e.g., `ls -la`).
 
 ## Known Issues
 - Input redirection functionality is currently unavailable.
