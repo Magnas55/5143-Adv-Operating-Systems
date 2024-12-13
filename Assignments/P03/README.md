@@ -12,25 +12,8 @@ This project simulates a scheduling system using various components and API inte
 Ensure all required packages from `requirements.txt` are installed.
 
 ## Directory Structure
-P03/
-│
-├── api/
-│   ├── __init__.py
-│   ├── getBurst.py
-│   ├── getJob.py
-│   └── init.py
-│
-├── components/
-│   ├── __init__.py
-│   ├── device.py
-│   ├── job.py
-│   ├── queue.py
-│   ├── stats.py
-│   └── systemClock.py
-│
-├── .gitignore
-├── my_version.py
-└── requirements.txt
+![image](https://github.com/user-attachments/assets/2e2019a5-a819-4ae0-99a8-3a9ec8cd904d)
+
 
 
 ## Project Files
