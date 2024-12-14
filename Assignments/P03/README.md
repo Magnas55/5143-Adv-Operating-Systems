@@ -12,7 +12,8 @@ This project simulates a scheduling system using various components and API inte
 Ensure all required packages from `requirements.txt` are installed.
 
 ## Directory Structure
-![image](https://github.com/user-attachments/assets/2e2019a5-a819-4ae0-99a8-3a9ec8cd904d)
+![image](https://github.com/user-attachments/assets/30999577-a42d-4794-a02a-1d1fd5e8b529)
+
 
 
 
